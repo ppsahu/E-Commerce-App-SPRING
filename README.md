@@ -6,6 +6,12 @@ A modern full-stack e-commerce application built with **Java Spring Boot** (back
 
 ---
 
+🎬 Video Demo - 
+
+Link - https://drive.google.com/file/d/1ViY0_QcaGCdOpruDMlUsOL0LlatqiyVe/view?usp=sharing
+
+---
+
 ## 🔗 Repositories
 
 - **Frontend (React)**: [github.com/ppsahu/E-Commerce-App-React-Frontend](https://github.com/ppsahu/E-Commerce-App-React-Frontend)
@@ -75,7 +81,3 @@ Run the ECommerceProjectApplication.java file
 We welcome contributions! Fork the repo, create a feature branch, and submit a PR.
 
 ⭐ Don’t forget to star this repo if you found this project helpful!
-
-🎬 Video Demo - 
-
-Link - https://drive.google.com/file/d/1ViY0_QcaGCdOpruDMlUsOL0LlatqiyVe/view?usp=sharing
