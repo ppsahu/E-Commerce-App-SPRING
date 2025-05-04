@@ -73,4 +73,4 @@ Hit "Connect"
 🤝 Contributing
 We welcome contributions! Fork the repo, create a feature branch, and submit a PR.
 
-⭐ Don’t forget to star the repositories if you found this project helpful!
+⭐ Don’t forget to star this repo if you found this project helpful!
