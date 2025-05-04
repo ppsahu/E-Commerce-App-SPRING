@@ -58,18 +58,18 @@ Run the ECommerceProjectApplication.java file
 ### 🔧 Frontend Setup (React)
 
 # Clone the frontend
-git clone https://github.com/ppsahu/E-Commerce-App-React-Frontend.git
-cd E-Commerce-App-React-Frontend
-Run "nvm install node"
-Run "npm install"
-Run "npm run dev"
+- git clone https://github.com/ppsahu/E-Commerce-App-React-Frontend.git
+- cd E-Commerce-App-React-Frontend
+- Run "nvm install node"
+- Run "npm install"
+- Run "npm run dev"
 
 # To see the data in database
-Go to http://localhost:8080/h2-console
-Set JDBC URL as jdbc:h2:mem:pratzo
-username: sa
-password: <empty>
-Hit "Connect"
+- Go to http://localhost:8080/h2-console
+- Set JDBC URL as jdbc:h2:mem:pratzo
+- username: sa
+- password: <empty>
+- Hit "Connect"
 
 🤝 Contributing
 We welcome contributions! Fork the repo, create a feature branch, and submit a PR.
