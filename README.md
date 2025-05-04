@@ -66,6 +66,7 @@ Run "npm run dev"
 
 # To see the data in database
 Go to http://localhost:8080/h2-console
+Set JDBC URL as jdbc:h2:mem:pratzo
 username: sa
 password: <empty>
 Hit "Connect"
